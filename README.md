@@ -1,4 +1,4 @@
-# Analise-de-Imagens-Formas-geom-tricas
+# Analise-de-Imagens
 
 ## Bibliotecas
 pip install opencv-python
